@@ -1,0 +1,37 @@
+commit 71580d8783856118c733ec48aa99a928e9651355
+Author: resno test <antonvores@gmail.com>
+Date:   Mon Feb 23 20:14:05 2026 +0300
+
+    Добавлен test.txt в ветке TEST
+
+commit 796aedac654bdf7378cbc4da98ed91c843835aa6
+Author: resno test <antonvores@gmail.com>
+Date:   Mon Feb 23 20:12:28 2026 +0300
+
+    Добавлен .gitignore для временных файлов
+
+commit faf7841cfdaae28ef3f1111543609dd49cea9610
+Author: resno test <antonvores@gmail.com>
+Date:   Mon Feb 23 20:10:05 2026 +0300
+
+    Revert "Добавлена платформа видеоконференций"
+    
+    This reverts commit 1f5b60922db7cdd182ce6c2275eb382dde146cc6.
+
+commit 1f5b60922db7cdd182ce6c2275eb382dde146cc6
+Author: resno test <antonvores@gmail.com>
+Date:   Mon Feb 23 20:09:12 2026 +0300
+
+    Добавлена платформа видеоконференций
+
+commit bda2c6849862a3f31d0713184243fc497eb07c23
+Author: resno test <antonvores@gmail.com>
+Date:   Mon Feb 23 20:05:27 2026 +0300
+
+    Добавлена оценка текущего статуса
+
+commit 38224fc26e6eb2d9f0b4831615e32291668b6486
+Author: resno test <antonvores@gmail.com>
+Date:   Mon Feb 23 19:57:34 2026 +0300
+
+    Добаавлен базовый readme с ФИО и группой
